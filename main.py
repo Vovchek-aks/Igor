@@ -6,6 +6,7 @@ def main() -> None:
 
     image = Image.open("img.png")
     print(image.size)
+    print(1)
 
 
 if __name__ == '__main__':
