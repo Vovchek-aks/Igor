@@ -8,6 +8,8 @@ def main() -> None:
     print(image.size)
     print(1)
 
+    print(input() * 10)
+
 
 if __name__ == '__main__':
     main()
