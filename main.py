@@ -13,6 +13,7 @@ def main() -> None:
 
     print(1111)
     print(2222)
+    print("бэээ")
 
 
 if __name__ == '__main__':
