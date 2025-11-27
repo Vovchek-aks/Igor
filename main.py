@@ -11,6 +11,8 @@ def main() -> None:
 
     print(input() * 10)
 
+    print(1111)
+
 
 if __name__ == '__main__':
     main()
