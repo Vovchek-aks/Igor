@@ -1,6 +1,7 @@
 def main() -> None:
     print("Hello, World!")
-    print(1 + 1)
+    total = 1 + 1
+    print(total)
 
 
 if __name__ == '__main__':
