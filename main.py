@@ -12,7 +12,7 @@ def main() -> None:
     print(input() * 10)
 
     print("aboba")
-
+    print("бэээ")
 
 
 if __name__ == '__main__':
